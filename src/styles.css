@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+.goog-te-gadget img{
+  display:none !important;
+}
+
+body {
+  top: 0px !important;
+}
+
+body > .skiptranslate {
+  display: none;
+}
+
+
+.skiptranslate > span {
+  display: none;
+}
+
+.goog-logo-link {
+  display:none !important;
+}
+
+.goog-te-gadget {
+  color: transparent !important;
+}
